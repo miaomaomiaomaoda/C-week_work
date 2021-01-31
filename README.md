@@ -1,2 +1,3 @@
 # C-week_work
-C++ every week homework
+2020-2021学年 每周的课后C++作业代码
+UTF-8
